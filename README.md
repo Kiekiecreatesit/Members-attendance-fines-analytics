@@ -11,7 +11,7 @@ In student organizations and academic associations, tracking meeting attendance,
 - Chi-Square Contingency Analysis: Performed a Chi-Square test of independence to examine whether unexcused absences are statistically associated with member gender.
 
 ## Key Findings
-1. Attendance Distribution: The data exhibited a left-skewed distribution where Mean (73%) < Median (80%)} < Mode (91%), indicating strong general engagement with distinct temporal dips on specific dates.
+1. Attendance Distribution: The data exhibited a left-skewed distribution where Mean (73%) < Median (80%) < Mode (91%), indicating strong general engagement with distinct temporal dips on specific dates.
 2. Financial Collections: Uncovered a major collection backlog—while 16 members had clean records and 23 settled their dues, 34 members had outstanding balances, including ₦15,600 in unpaid lateness fines and ₦61,500 in unpaid unexcused absence fines.
 3. Gender Segmentation & Chi-Square: Female members maintained a higher average attendance rate (77%) compared to males (70%). A Chi-Square test yielded a p-value of 0.0419, confirming a statistically significant dependence between gender and unexcused absences.
 
